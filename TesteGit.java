@@ -3,5 +3,6 @@ public class TesteGit {
         System.out.println("Exemplo de teste de uso do git");
         System.out.println("Exemplo de alteração - pull");
         System.out.println("Exemplo de alteração - branch");
+        System.out.println("Exemplo de alteração - Branch Work");
     }
 }
